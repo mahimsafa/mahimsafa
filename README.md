@@ -38,6 +38,4 @@ Here are some info about me to give you an *Idea*:
 - Git
 - Nginx
 
-<a align="center" href="http://twitter.com/mahim_safa">
-   <img src="https://img.shields.io/twitter/follow/mahim_safa?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
-</a>
+**Social:** [Facebook](https://www.facebook.com/TheBikkritoGuy), [Twitter](https://twitter.com/mahim_safa), [Instagram](https://www.instagram.com/mahim_safa/), [LinkedIn](https://www.linkedin.com/in/mahimsafa/)
