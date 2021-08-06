@@ -11,7 +11,7 @@ Here are some info about me to give you an *Idea*:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [mahimsafa@gmail.com](mailto:mahimsafa@gmail.com)
-- 😄 Pronouns: ...
+<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: "I hacked our college student portal along with other 6 colleges under Dhaka University. [Writeup](https://mahimsafa.medium.com/how-i-hacked-dhaka-university-affiliated-7c-213f158abbaf)"
 
 
