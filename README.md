@@ -6,7 +6,7 @@ I am **Mahim Safa**. I am a Web Developer as well as a Penetration tester, a qui
 Here are some info about me to give you an *Idea*:
 
 - 🔭 I’m currently working on a personal project.
-- 🌱 I’m currently learning `flask` a python framework for web application.
+- 🌱 I’m currently learning `{+ flask +}` a python framework for web application.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
