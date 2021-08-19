@@ -38,4 +38,6 @@ Here are some info about me to give you an *Idea*:
 - Git
 - Nginx
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 **Social:** [Facebook](https://www.facebook.com/TheBikkritoGuy), [Twitter](https://twitter.com/mahim_safa), [Instagram](https://www.instagram.com/mahim_safa/), [LinkedIn](https://www.linkedin.com/in/mahimsafa/)
