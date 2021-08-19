@@ -19,6 +19,8 @@ Here are some info about me to give you an *Idea*:
 ## Skills
 
 ### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimsafa)](https://github.com/mahimsafa)
+
 - Python
 - JavaScript (Vanilla, Node JS, Deno JS)
 - Bash
@@ -38,6 +40,6 @@ Here are some info about me to give you an *Idea*:
 - Git
 - Nginx
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimsafa&theme=dracula)](https://github.com/mahimsafa)
 
 **Social:** [Facebook](https://www.facebook.com/TheBikkritoGuy), [Twitter](https://twitter.com/mahim_safa), [Instagram](https://www.instagram.com/mahim_safa/), [LinkedIn](https://www.linkedin.com/in/mahimsafa/)
