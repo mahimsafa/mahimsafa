@@ -33,8 +33,9 @@ Here are some info about me to give you an *Idea*:
 - Docker
 - Git
 - Nginx
-- 
+ 
 <br>
+
 ### Github Stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimsafa&theme=dracula)](https://github.com/mahimsafa)
