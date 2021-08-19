@@ -16,25 +16,19 @@ Here are some info about me to give you an *Idea*:
 
 
 
-## Skills
+
 
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahimsafa)](https://github.com/mahimsafa)
 
-- Python
-- JavaScript (Vanilla, Node JS, Deno JS)
-- Bash
-- HTML, CSS
 
-### Frameworks
+## Skills & Knowledges
 - Django
 - Flask
 - Express JS
 - React JS
 - Next JS
 - Selenium
-
-### Knowledge
 - Linux Server
 - Docker
 - Git
