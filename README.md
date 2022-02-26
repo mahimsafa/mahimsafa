@@ -6,7 +6,7 @@ I am **Mahim Safa**. I am a Web Developer as well as a Penetration tester, a qui
 Here are some info about me to give you an *Idea*:
 
 <!-- - 🔭 I’m currently working on a personal project. -->
-- 🌱 I’m currently learning web application attack in depth.
+- 🌱 I’m currently learning web application and cloud architecture.
 - 👯 I’m looking to collaborate with other developers.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -26,16 +26,5 @@ Here are some info about me to give you an *Idea*:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mahimsafa&theme=dracula)](https://github.com/mahimsafa)
 
-### Skills & Knowledges
-- Django
-- Flask
-- Express JS
-- React JS
-- Next JS
-- Selenium
-- Linux Server
-- Docker
-- Git
-- Nginx
 
 **Social:** [Twitter](https://twitter.com/mahim_safa), [Instagram](https://www.instagram.com/mahim_safa/), [LinkedIn](https://www.linkedin.com/in/mahimsafa/)
