@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am **Mahim Safa**. I am a Web Developer as well as a Penetration tester, a quick learner and try to learn new things everyday.
+I am <span style="color:#02DC59;text-decoration:none;">**[Mahim Safa](https://mahimsafa.com/)**</span>. I am a Web Developer as well as a Penetration tester, a quick learner and try to learn new things everyday.
 
 Here are some info about me to give you an *Idea*:
 
@@ -12,7 +12,7 @@ Here are some info about me to give you an *Idea*:
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: [mahimsafa@gmail.com](mailto:mahimsafa@gmail.com)
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: "I hacked our college student portal along with other 6 colleges under Dhaka University. [Writeup](https://mahimsafa.medium.com/how-i-hacked-dhaka-university-affiliated-7c-213f158abbaf)"
+- ⚡ You can find my latest blogs here: ***[Blog](https://mahimsafa.medium.com/)***
 
 
 
